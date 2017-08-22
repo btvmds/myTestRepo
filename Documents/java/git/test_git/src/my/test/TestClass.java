@@ -1,4 +1,4 @@
-package my.test;
+package git.test_git.src.my.test;
 
 /**
  * Created by tbut on 24.04.16.
